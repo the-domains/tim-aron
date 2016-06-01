@@ -1,0 +1,28 @@
+name: Tim Aron
+favicon: null
+layout_spectrum: 0.13935642433352768
+typography_spectrum: 0.3741842058952898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.43207117379643023
+  lightness: 0.2866530113387853
+  saturation: 0.4474192576017231
+  rhythmicContrast: 0.029238559072837234
+purpose: []
